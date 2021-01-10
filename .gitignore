@@ -3,5 +3,5 @@ public/
 themes/soho/
 resources
 .idea
-deploy.sh
-commitsrc.sh
+#deploy.sh
+#commitsrc.sh
