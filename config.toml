@@ -1,6 +1,6 @@
 baseurl = "https://procloudnative.github.io/"
 languageCode = "en"
-title = "Soho Theme"
+title = "云原生安全社区"
 theme = "soho"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
@@ -9,8 +9,8 @@ enableEmoji = true
 paginate = 5
 
 [params]
-title = "Soho Theme"
-description = "Example Blog"
+title = "云原生安全社区"
+description = ""
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
