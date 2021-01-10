@@ -2,6 +2,5 @@
 .DS_Store
 #themes/soho/
 resources
-.idea
 #deploy.sh
 #commitsrc.sh
