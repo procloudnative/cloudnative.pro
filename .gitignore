@@ -1,6 +1,6 @@
-#public/
+public/
 .DS_Store
-#themes/soho/
+themes/soho/
 resources
 .idea
 deploy.sh
