@@ -4,3 +4,4 @@ themes/soho/
 resources
 .idea
 deploy.sh
+commitsrc.sh
