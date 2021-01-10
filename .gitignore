@@ -1,0 +1,7 @@
+public/
+.DS_Store
+.DS_STORE
+themes/soho/
+resources
+.idea
+deploy.sh
