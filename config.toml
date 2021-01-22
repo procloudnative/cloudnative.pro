@@ -76,8 +76,8 @@ mainSections = ["post"]
   url = "/tags/"
 
   [[menu.main]]
-  name = "About"
-  identifier = "关于我"
+  name = "关于我"
+  identifier = "about"
   weight = 400
   url = "/about/"
 
