@@ -71,20 +71,20 @@ mainSections = ["post"]
 
   [[menu.main]]
   name = "标签"
-  weight = 200
+  weight = 300
   identifier = "tags"
   url = "/tags/"
 
   [[menu.main]]
   name = "About"
   identifier = "关于我"
-  weight = 10
+  weight = 400
   url = "/about/"
 
   [[menu.main]]
   name = "联系方式"
   identifier = "contact"
-  weight = 20
+  weight = 500
   url = "/contact/"
 
 [markup]
