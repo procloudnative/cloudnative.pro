@@ -11,10 +11,10 @@ paginate = 5
 [params]
 title = "云原生安全"
 description = ""
-# gravatar = "soho@example.com"
+# gravatar = "zxb19840101@gmail.com"
 images = ["images/profile.png"]
 profilePicture = "images/profile.png"
-copyright = "Author Name"
+copyright = "cloudnative.pro"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 builtWith = true
@@ -31,7 +31,7 @@ mainSections = ["post"]
   [[params.socialIcons]]
   icon = "fa-github"
   title = "GitHub"
-  url = "https://github.com/alexandrevicenzi/soho"
+  url = "https://github.com/procloudnative"
 
   [[params.socialIcons]]
   icon = "fa-twitter"
@@ -46,11 +46,17 @@ mainSections = ["post"]
 [menu]
 
   [[menu.main]]
-  name = "Spiffe"
-  weight = 100
-  identifier = "spiffe"
-  url = "/spiffe/"
+  name = "云原生安全指南"
+  weight = 20
+  identifier = "security"
+  url = "/security/"
   
+  [[menu.main]]
+  name = "Kubevirt指南"
+  weight = 10
+  identifier = "kubevirt"
+  url = "/kubevirt/"
+
   [[menu.main]]
   name = "Posts"
   weight = 100
@@ -58,25 +64,25 @@ mainSections = ["post"]
   url = "/posts/"
 
   [[menu.main]]
-  name = "Categories"
+  name = "分类"
   weight = 200
   identifier = "categories"
   url = "/categories/"
 
   [[menu.main]]
-  name = "Tags"
+  name = "标签"
   weight = 200
   identifier = "tags"
   url = "/tags/"
 
   [[menu.main]]
   name = "About"
-  identifier = "about"
+  identifier = "关于我"
   weight = 10
   url = "/about/"
 
   [[menu.main]]
-  name = "Contact"
+  name = "联系方式"
   identifier = "contact"
   weight = 20
   url = "/contact/"
