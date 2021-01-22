@@ -46,6 +46,12 @@ mainSections = ["post"]
 [menu]
 
   [[menu.main]]
+  name = "Spiffe"
+  weight = 100
+  identifier = "spiffe"
+  url = "/spiffe/"
+  
+  [[menu.main]]
   name = "Posts"
   weight = 100
   identifier = "posts"
